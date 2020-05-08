@@ -6,3 +6,5 @@ target/
 RemoteSystemsTempFiles
 /test/android/bin/
 /test/android/gen/
+.idea
+*.iml
